@@ -5,7 +5,7 @@ export default function Latestworkshowcase(props) {
     return (
 
         <div>
-            <a href={props.link}>
+            <a href={props.link} target="_blank">
                 <figure className="hover">
                     <img alt={props.title} className="img-responsive" src={props.image} />
                     <figcaption>

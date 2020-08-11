@@ -24,16 +24,16 @@ export default function Latestwork() {
                     }
                 >
                     <Latestworkshowcase
-                        link="#"
+                        link="https://destinatx.github.io/Project-1/"
                         image="img/portfolio/740x540-1.jpg"
-                        title="Project One"
-                        category="Front-end"
+                        title="FoodTruckATX"
+                        category="Front-end App"
                     />
                     <Latestworkshowcase
                         link="#"
                         image="img/portfolio/740x540-2.jpg"
                         title="Project Two"
-                        category="Back-end"
+                        category="Front-end App"
                     />
                     <Latestworkshowcase
                         link="#"

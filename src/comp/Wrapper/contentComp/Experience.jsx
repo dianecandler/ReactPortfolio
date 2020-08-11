@@ -38,7 +38,7 @@ export default function Experience() {
                             />
                             {/* second */}
                             <Expright 
-                                title="Server & Systems Infrastructure"
+                                title="Server &amp; Systems Infrastructure"
                                 company="Dell Technologies"
                                 about="Worked for SVP with Product Mgmt team while renovating 100+ yr commercial & residential properties!"
                                 image="img/cssdesignawards.png"
