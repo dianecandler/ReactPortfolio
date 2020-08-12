@@ -13,24 +13,24 @@ export default function News() {
                 </div>
                 <section className="section-sm pb-0">
                     <Newsleft 
-                        link="#"
-                        linktitle="Top 20 Illustrations Winners: Academy"
-                        sublink="#"
-                        subtitle="Illustration"
-                        date="August 30, 2020"
-                        about="We have experience in implementing projects for many large domestic and foreign corporations, enterprises in many elds such as nance, banking, F&B, education."
-                        readmorelink="#"
-                        image="img/news/370x434-1.jpg"
+                        // link="#"
+                        linktitle="Design"
+                        // sublink="#"
+                        subtitle="Historic Restoration"
+                        date="2006-Present"
+                        about="Restore 100 year old homes like this one as well as historic commercial retail buildings. Renovate and remodel homes of all types and offices.this 1920 Dutch Colonial. This passion started shortly after graduating from college and continues today. Also enjoy retail display window decorating which is something I have been doing since high school."
+                        // readmorelink="#"
+                        image="img/news/370x434-BHouseSQUARE.jpg"
                     />
                     <Newsright 
-                        link="#"
-                        linktitle="Mapp MTL"
-                        sublink="#"
+                        // link="#"
+                        linktitle="Event Planning"
+                        // sublink="#"
                         subtitle="Branding"
-                        date="July 30, 2020"
-                        about="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form."
-                        readmorelink="#"
-                        image="img/news/370x434-2.jpg"
+                        date="2006-Present"
+                        about="Experienced party planner and event organizer which includes team building trips, tradeshow events plus retirement, wedding, and birthday celebrations, reunions, wedding & baby showers, wine tasting events, and more. Great events begin with organized planning and an abundance of creativity, tailored specifically for the client."
+                        // readmorelink="#"
+                        image="img/news/370x434-2_Events.jpg"
                     />
                 </section>
             </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from './Resume.pdf';
 
 export default function index() {
   return (
@@ -63,7 +64,7 @@ export default function index() {
                 <li><a href="https://github.com/dianecandler" target="_blank"><ion-icon name="logo-github"></ion-icon></a></li>
                 {/* <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li> */}
                 <li><a href="https://www.linkedin.com/in/diane-candler-centraltexas/" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a></li>
-                <li><a href="#" target="_blank"><ion-icon name="document"></ion-icon></a></li>
+                <li><a href= {Resume} target="_blank"><ion-icon name="document"></ion-icon></a></li>
               </ul>
             </div>
             <div className="col-md-6 col-lg-4 pl-0 mt-5 mt-lg-0">
