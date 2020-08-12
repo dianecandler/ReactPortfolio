@@ -1298,6 +1298,31 @@ main{
   background: #E82E31!important;
 }
 
+.news-carousel .owl-item img{
+  
+}
+
+.news-carousel  .owl-prev{
+  transform: none;
+  top:0;
+  left:auto;
+  right:3.75rem;
+  background: #f6f6f6!important;
+  margin-right: 15px;
+}
+
+.news-carousel .owl-next{
+  transform: none;
+  top:0;
+  right:0;
+  background: #f6f6f6!important;
+}
+
+.news-carousel  .owl-prev:hover,
+.news-carousel  .owl-next:hover{
+  background: #E82E31!important;
+}
+
 .experience-number{
   font-size: 8rem;
   line-height: 1;

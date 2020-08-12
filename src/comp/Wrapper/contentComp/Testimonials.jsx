@@ -40,6 +40,24 @@ export default function Testimonials() {
                                 testimonial="She is fast learner!"
                                 image="img/testimonials/370x434-3.jpg"
                             />
+                            <Testimonialcall
+                                person="Dr and Mrs Streisand"
+                                company="DESAIGN STUDIO"
+                                testimonial="She is fast learner!"
+                                image="img/testimonials/370x434-3.jpg"
+                            />
+                            <Testimonialcall
+                                person="Bobby"
+                                company="DESAIGN STUDIO"
+                                testimonial="She is fast learner!"
+                                image="img/testimonials/370x434-3.jpg"
+                            />
+                            <Testimonialcall
+                                person="Lauren"
+                                company="DESAIGN STUDIO"
+                                testimonial="She is fast learner!"
+                                image="img/testimonials/370x434-3.jpg"
+                            />
                         </OwlCarousel>
                     </div>
                 </div>

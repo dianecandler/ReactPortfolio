@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import ContactForm from './ContactForm';
 
 export default function Contact() {
     return (
@@ -23,22 +24,7 @@ export default function Contact() {
                     <div className="col-lg-6 offset-lg-2 mt-5 mt-lg-0 px-0">
                         <h3 className="my-0" data-aos="fade-up">Let's grab a coffee and jump on conversation <span className="text-primary">chat with me.</span></h3>
                         <section className="section-sm pb-0" data-aos="fade-up">
-                            <form className="js-ajax-form">
-                                <div className="form-group">
-                                    <input type="text" name="name" className="form-control" placeholder="Name" />
-                                </div>
-                                <div className="form-group">
-                                    <input type="email" name="email" className="form-control" required="" placeholder="Email *" />
-                                </div>
-                                <div className="form-group">
-                                    <textarea rows="3" name="message" className="form-control" placeholder="Message"></textarea>
-                                </div>
-                                <div className="message" id="success-message">Your message is successfully sent...</div>
-                                <div className="message" id="error-message">Sorry something went wrong</div>
-                                <div className="form-group mb-0">
-                                    <button type="submit" className="btn">Contact me</button>
-                                </div>
-                            </form>
+                            <ContactForm />
                         </section>
                     </div>
                 </div>

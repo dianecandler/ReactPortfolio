@@ -37,7 +37,7 @@ export default function Partners() {
                             delay="0"
                         />
                         <Partnerlogo 
-                            image="img/partners/2.png"
+                            image="img/partners/5.png"
                             alt="Google Inc."
                             delay="0"
                         />

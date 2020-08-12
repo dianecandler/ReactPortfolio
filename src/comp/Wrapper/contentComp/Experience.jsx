@@ -31,8 +31,8 @@ export default function Experience() {
                             <Expleft 
                                 title="Full-Stack Designer"
                                 company="University of Texas Bootcamp"
-                                about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
+                                about="Working with JavaScript, HTML, CSS, JQuery, Heroku, Git, PHPm MySQL, MongoDB, Node.js, Express, MERN Stack"
+                                image="img/UT.png"
                                 from="2020"
                                 to="Present"
                             />
@@ -41,37 +41,37 @@ export default function Experience() {
                                 title="Server &amp; Systems Infrastructure"
                                 company="Dell Technologies"
                                 about="Worked for SVP with Product Mgmt team while renovating 100+ yr commercial & residential properties!"
-                                image="img/cssdesignawards.png"
+                                image="img/Dell.png"
                                 from="2015"
                                 to="2020"
                             />
                             {/* third */}
                             <Expleft 
-                                title="Full-Stack Designer"
-                                company="UT Bootcamp"
+                                title="Consultant"
+                                company="Update"
                                 about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
-                                from="2019"
-                                to="2020"
+                                image="img/Newisys.png"
+                                from="2009"
+                                to="2008"
                             />
                         </div>
                         {/* new */}
                         <div>
                             {/* first */}
                             <Expleft 
-                                title="Full-Stack Designer"
-                                company="UT Bootcamp"
+                                title="Server and Storage Line Manager"
+                                company="Newisys"
                                 about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
-                                from="2019"
-                                to="2020"
+                                image="img/Newisys.png"
+                                from="2008"
+                                to="2009"
                             />
                             {/* second */}
                             <Expright 
                                 title="ABC"
                                 company="UT Bootcamp"
                                 about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
+                                image="img/UT.png"
                                 from="2019"
                                 to="2020"
                             />
