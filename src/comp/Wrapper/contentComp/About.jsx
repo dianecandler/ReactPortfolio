@@ -8,12 +8,12 @@ export default function About() {
                 <div className="row mx-0 align-items-center">
                     <div className="ocol-md-6 col-lg-4 px-0 mt-5 mt-lg-0 px-0" data-aos="fade-right">
                         <div className="experience-number font-weight-bold text-dark d-inline-block d-lg-block align-middle">
-                            <span>20</span><span className="plus">+</span>
+                            <span>15</span><span className="plus">+</span>
                         </div>
                         <h5 className="text-uppercase my-0 d-inline-block d-lg-block align-middle">Years<br /> Experience<br /> Working</h5>
                     </div>
                     <div className="col-md-6 col-lg-4 px-0">
-                        <h2 className="mt-0 wide-lg mb-5 mb-md-0" data-aos="fade-up">My <span className="text-primary">mission</span>  is develope the best websites<br /> <span className="text-primary">around</span></h2>
+                        <h2 className="mt-0 wide-lg mb-5 mb-md-0" data-aos="fade-up">My <span className="text-primary">mission</span>  is to work for a company that desires experience and <br /> <span className="text-primary">creativity</span></h2>
                     </div>
                     <div className="col-md-6 col-lg-4 px-0">
                         <img alt="" className="w-100" src="img/370x434-1.jpg" />
