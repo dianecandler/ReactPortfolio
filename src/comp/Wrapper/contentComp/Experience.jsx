@@ -48,9 +48,9 @@ export default function Experience() {
                             {/* third */}
                             <Expleft 
                                 title="Consultant"
-                                company="Update"
+                                company="Solving Problems"
                                 about="Sales, creative design, business planning"
-                                image="img/Newisys.png"
+                                // image="img/PM.png"
                                 from="2009"
                                 to="2008"
                             />
@@ -61,59 +61,59 @@ export default function Experience() {
                             <Expleft 
                                 title="Server and Storage Line Manager"
                                 company="Newisys"
-                                about="It was fun to launch a new product!"
-                                image="img/Newisys.png"
-                                from="2008"
-                                to="2009"
+                                about="Led OEM/ODM products through Life Cycle Managment from propposal to final deliverables ensuring customer, vendor, and internal scope, schedule, cost goals were met."
+                                // image="img/Newisys.png"
+                                from="2007"
+                                to="2008"
                             />
                             {/* second */}
                             <Expright 
-                                title="ABC"
-                                company="UT Bootcamp"
-                                about="It was fun to launch a new product!"
-                                image="img/UT.png"
-                                from="2019"
-                                to="2020"
+                                title="Product Marketing Manager"
+                                company="Britestream Networks"
+                                about="Security Hardware Start-Up where led implementation of Partnership Programs with Microsoft, IBM, CheckPoint, nCipher."
+                                // image="img/testimonials/ProductMgmt.jpg"
+                                from="2004"
+                                to="2006"
                             />
                             {/* third */}
                             <Expleft 
-                                title="XYZ Designer"
-                                company="UT Bootcamp"
-                                about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
-                                from="2019"
-                                to="2020"
+                                title="Director of Product Planning"
+                                company="Hewlett-Packard (formerly RLX Technologies)"
+                                about="Launched 1st industry standard Blade Server"
+                                // image="img/cssdesignawards.png"
+                                from="1999"
+                                to="2001"
                             />
                         </div>
                         {/* new */}
                         <div>
                             {/* first */}
                             <Expleft 
-                                title="ABC"
-                                company="UT Bootcamp"
-                                about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
-                                from="2019"
-                                to="2020"
+                                title="Manager of Server &amp; I/O Product Management"
+                                company="Dell Technologies"
+                                about="Defined and Launched industry's 1st 2U server, managed team of 20+"
+                                image="img/Dell.png"
+                                from="1999"
+                                to="2001"
                             />
                             {/* second */}
-                            <Expright 
+                            {/* <Expright 
                                 title="LMNOP"
                                 company="UT Bootcamp"
                                 about="It was fun to launch a new product!"
-                                image="img/cssdesignawards.png"
+                                // image="img/cssdesignawards.png"
                                 from="2019"
                                 to="2020"
-                            />
+                            /> */}
                             {/* third */}
-                            <Expleft 
+                            {/* <Expleft 
                                 title="XYZ"
                                 company="UT Bootcamp"
                                 about="It was fun to launch a new product!"
                                 image="img/cssdesignawards.png"
                                 from="2019"
                                 to="2020"
-                            />
+                            /> */}
                         </div>
                     </OwlCarousel>
                 </div>

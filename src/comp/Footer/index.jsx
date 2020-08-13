@@ -46,7 +46,7 @@ export default function index() {
           <div className="col-md-6 col-lg-4 order-md-2  order-lg-3  mt-5 mt-lg-0 px-0">
             <strong className="text-uppercase text-dark">My Bio</strong><br />
             <p className="mt-4">
-              create call for a job
+              Raised in a family of well educated, high achievers, Diane instinctly developed a passion for learning. She began her career in product management and marketing before starting her own creative services business.  Today she desires to join a company that values her experience and newly acquired full-stack coding skills.
              </p>
             <div className="mt-4">
               <img src="/img/370x434-1.jpg" alt="Diane Candler" height="200" style={{ borderRadius: "50%" }} />
