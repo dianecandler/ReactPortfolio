@@ -24,28 +24,28 @@ export default function Latestwork() {
                     }
                 >
                     <Latestworkshowcase
+                        link="https://www.heroku.com/platform"
+                        image="img/portfolio/740x540-5.jpg"
+                        title="CodeCave"
+                        category="Full-Stack App"
+                    />
+                    <Latestworkshowcase
                         link="https://destinatx.github.io/Project-1/"
                         image="img/portfolio/740x540-1.jpg"
-                        title="FoodTruckATX"
+                        title="Food Truck ATX"
                         category="Front-end App"
                     />
                     <Latestworkshowcase
-                        link="#"
+                        link="https://dianecandler.github.io/DayPlanner/"
                         image="img/portfolio/740x540-2.jpg"
-                        title="Project Two"
-                        category="Front-end App"
+                        title="Day Planner"
+                        category="Front-End App"
                     />
                     <Latestworkshowcase
-                        link="#"
+                        link="https://dianecandler.github.io/DayPlanner/"
                         image="img/portfolio/740x540-3.jpg"
-                        title="Project Three"
-                        category="Full-stack"
-                    />
-                    <Latestworkshowcase
-                        link="#"
-                        image="img/portfolio/740x540-3.jpg"
-                        title="Project Four"
-                        category="Project Development"
+                        title="Coding Quiz Game"
+                        category="Front-End App"
                     />
                 </OwlCarousel>
             </section>

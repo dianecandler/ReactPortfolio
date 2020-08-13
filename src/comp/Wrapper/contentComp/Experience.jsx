@@ -40,7 +40,7 @@ export default function Experience() {
                             <Expright 
                                 title="Server &amp; Systems Infrastructure"
                                 company="Dell Technologies"
-                                about="Worked for SVP with Product Mgmt team while renovating 100+ yr commercial & residential properties!"
+                                about="Worked for SVP with Product Mgmt team while renovating 100+ yr commercial &amp; residential properties!"
                                 image="img/Dell.png"
                                 from="2015"
                                 to="2020"
@@ -49,7 +49,7 @@ export default function Experience() {
                             <Expleft 
                                 title="Consultant"
                                 company="Update"
-                                about="It was fun to launch a new product!"
+                                about="Sales, creative design, business planning"
                                 image="img/Newisys.png"
                                 from="2009"
                                 to="2008"
