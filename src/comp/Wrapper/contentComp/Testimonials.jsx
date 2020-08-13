@@ -48,8 +48,8 @@ export default function Testimonials() {
                             />
                             <Testimonialcall
                                 person="Bobby"
-                                company="DESAIGN STUDIO"
-                                testimonial="She is fast learner!"
+                                company="City Councilman"
+                                testimonial=" Given her involvement in past projects she has exhibited an exceptional degree of leadership, she is focused on the task at hand and has the innate ability to not allow peripheral concerns of insignificance delay her mission.  She is a self starter, manages her time extraordinarily, and leads by example.  She is a team builder and brings extraordinary confidence to challenging projects. Can’t is not in her vocabulary."
                                 image="img/testimonials/370x434-3.jpg"
                             />
                             <Testimonialcall

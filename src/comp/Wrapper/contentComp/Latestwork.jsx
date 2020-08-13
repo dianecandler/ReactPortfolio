@@ -24,25 +24,29 @@ export default function Latestwork() {
                     }
                 >
                     <Latestworkshowcase
-                        link="https://www.heroku.com/platform"
+                        link="https://codecave.herokuapp.com/"
                         image="img/portfolio/740x540-5.jpg"
+                        // GitHub link="https://group-5-project-2.github.io/CodeCave/"
                         title="CodeCave"
                         category="Full-Stack App"
                     />
                     <Latestworkshowcase
                         link="https://destinatx.github.io/Project-1/"
                         image="img/portfolio/740x540-1.jpg"
+                        // GitHub link="https://github.com/DestinATX/Project-1"
                         title="Food Truck ATX"
                         category="Front-end App"
                     />
                     <Latestworkshowcase
                         link="https://dianecandler.github.io/DayPlanner/"
                         image="img/portfolio/740x540-2.jpg"
+                        // GitHub link="https://github.com/dianecandler/DayPlanner"
                         title="Day Planner"
                         category="Front-End App"
                     />
                     <Latestworkshowcase
-                        link="https://dianecandler.github.io/DayPlanner/"
+                        link="https://dianecandler.github.io/codingQuiz/"
+                        // GitHub link="https://github.com/dianecandler/codingQuiz"
                         image="img/portfolio/740x540-3.jpg"
                         title="Coding Quiz Game"
                         category="Front-End App"
