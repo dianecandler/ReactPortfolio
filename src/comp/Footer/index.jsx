@@ -19,15 +19,15 @@ export default function index() {
 
         <div className="row mx-0">
           <div className="col-md-6 col-lg-4  pl-0 pr-md-30px">
-            <a className="brand" href="#">Diane</a>
-            <p className="size-sm">Personal</p>
+            <a className="brand" href="#">Diane Candler</a>
+            <p className="size-sm">Product Designer &amp; Full-stack Developer</p>
             <p className="mt-4">
               <strong className="text-uppercase text-dark">Address:</strong><br />
                 P.O. Box 9, Bartlett, TX, USA
               </p>
             <p className="mt-4">
               <strong className="text-uppercase text-dark">Email:</strong><br />
-                dianedcandler@gmail.com
+                <a href="mailto://dianedcandler@gmail.com">dianedcandler@gmail.com</a>
               </p>
           </div>
           <div className="col-md-6 col-lg-4  order-md-3  order-lg-2 pl-0 pr-md-30px mt-5 mt-md-0">
@@ -38,6 +38,8 @@ export default function index() {
               <li><a className="nav-link" href="#specialization">Specialization</a></li>
               <li><a className="nav-link" href="#works">Projects</a></li>
               <li><a className="nav-link" href="#experience">Experience</a></li>
+              <li><a className="nav-link" href="#testimonial">Testimonials</a></li>
+              <li><a className="nav-link" href="#skills">Skills &amp; Education</a></li>
               <li><a className="nav-link" href="#contact">Contact</a></li>
             </ul>
           </div>

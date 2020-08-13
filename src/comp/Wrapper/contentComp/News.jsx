@@ -5,11 +5,11 @@ import Newsright from './Newsright';
 
 export default function News() {
     return (
-        <section id="news" className="section pb-0">
+        <section id="skills" className="section pb-0">
             <div className="container">
                 <div className="row mx-0">
                     <div className="col-lg-4 px-0" data-aos="fade-right">
-                        <h2 className="my-0">Journal</h2>
+                        <h2 className="my-0">Skills &amp; Education</h2>
                     </div>
                 </div>
                 <section className="section-sm pb-0">
@@ -40,8 +40,8 @@ export default function News() {
                                     // sublink="#"
                                 subtitle="Bachelors, Business Administration and Full-Stack Coding"
                                     date="Leadership and learning are indispensable to each other. – John F. Kennedy"
-                                    about=" Bootcamp Program:  Computer Science applied to JavaScript, Browser-Based Technologies (HTML, CSS, JavaScript, jQuery), Deployment (Heroku, Git), PHP (Laravel), Databases (MySQL, MongoDB), Server-Side Development (Node.js, Express, MERN Stack)   //   Employer courses: Program Management, Product Positioning, Pricing, Understanding the Phase Review Process, Leadership, Power and Influence, Managing High Potential Employees, Organization, Personnel Management, 
-                                    Managing Up, Web Optimization, Sales Skills, Budgeting and Finance, Art of Negotiation, Business Development."
+                                    about="Bootcamp Program:  Computer Science applied to JavaScript, Browser-Based Technologies (HTML, CSS, JavaScript, jQuery), Deployment (Heroku, Git), PHP (Laravel), Databases (MySQL, MongoDB), Server-Side Development (Node.js, Express, MERN Stack)"
+                                    about2="Employer courses: Program Management, Product Positioning, Pricing, Understanding the Phase Review Process, Leadership, Power and Influence, Managing High Potential Employees, Organization, Personnel Management, Managing Up, Web Optimization, Sales Skills, Budgeting and Finance, Art of Negotiation, Business Development."
                                     // readmorelink="#"
                                     image="img/news/UT_logo.jpg"
                                 />

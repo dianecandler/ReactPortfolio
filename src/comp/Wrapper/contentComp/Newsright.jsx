@@ -12,6 +12,9 @@ export default function Newsright(props) {
                 <div className="mt-4 mt-lg-0">
                     {/* dropped . ..  and read more at the end on next line */}
                     <p className="mb-0">{props.about} <a href={props.readmorelink}></a></p>
+                    <hr/>
+                    <p className="mb-0">{props.about2} <a href={props.readmorelink}></a></p>
+
                 </div>
             </div>
             <div className="hover col-md-6 col-lg-4 order-1 order-md-2 order-lg-3  px-0" data-aos="blur">

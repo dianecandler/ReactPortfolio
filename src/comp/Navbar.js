@@ -11,7 +11,7 @@ export default function Navbar() {
     
     return (
         <>
-        <nav id="scrollspy" className="navbar navbar-desctop">
+        <nav id="scrollspy" className="navbar navbar-desctop" style={{position:"fixed", top:"0", left:"0", backgroundColor:"#ffffffee"}}>
         
         <div className="d-flex align-items-center position-relative w-100">
   
@@ -25,6 +25,8 @@ export default function Navbar() {
               <li><a className="nav-link" href="#specialization">Specialization</a></li>
               <li><a className="nav-link" href="#works">Projects</a></li>
               <li><a className="nav-link" href="#experience">Experience</a></li>
+              <li><a className="nav-link" href="#testimonial">Testimonials</a></li>
+              <li><a className="nav-link" href="#skills">Accomplishments</a></li>
               <li><a className="nav-link" href="#contact">Contact</a></li>
             </ul>
   

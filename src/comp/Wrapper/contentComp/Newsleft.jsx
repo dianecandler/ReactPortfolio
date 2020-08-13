@@ -13,6 +13,8 @@ export default function Newsleft(props) {
             </div>
             <div className="col-md-6 col-lg-4 px-0 mt-4 mt-lg-0">
                 <p className="mb-0">{props.about} <a href={props.readmorelink}></a></p>
+                <hr />
+                <p className="mb-0">{props.about2} <a href={props.readmorelink}></a></p>
             </div>
         </div>
     )
