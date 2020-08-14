@@ -32,7 +32,7 @@ export default function Experience() {
                                 title="Full-Stack Designer"
                                 company="University of Texas Bootcamp"
                                 about="Working with JavaScript, HTML, CSS, JQuery, Heroku, Git, PHPm MySQL, MongoDB, Node.js, Express, MERN Stack"
-                                image="img/UT.png"
+                                image="img/exp/UT.png"
                                 from="2020"
                                 to="Present"
                             />
@@ -41,7 +41,7 @@ export default function Experience() {
                                 title="Server &amp; Systems Infrastructure"
                                 company="Dell Technologies"
                                 about="Worked for SVP with Product Mgmt team while renovating 100+ yr commercial &amp; residential properties!"
-                                image="img/Dell.png"
+                                image="img/exp/Dell.png"
                                 from="2015"
                                 to="2020"
                             />
@@ -50,7 +50,7 @@ export default function Experience() {
                                 title="Consultant"
                                 company="Solving Problems"
                                 about="Sales, creative design, business planning"
-                                image="img/PM.png"
+                                image="img/exp/PM.png"
                                 from="2007"
                                 to="2015"
                             />
@@ -62,7 +62,7 @@ export default function Experience() {
                                 title="Server and Storage Line Manager"
                                 company="Newisys"
                                 about="Led OEM/ODM products through Life Cycle Managment from propposal to final deliverables ensuring customer, vendor, and internal scope, schedule, cost goals were met."
-                                image="img/NewisysSanmina.png"
+                                image="img/exp/NewisysSanmina.png"
                                 from="2007"
                                 to="2008"
                             />
@@ -71,7 +71,7 @@ export default function Experience() {
                                 title="Product Marketing Manager"
                                 company="Britestream Networks"
                                 about="Security Hardware Start-Up where led implementation of Partnership Programs with Microsoft, IBM, CheckPoint, nCipher."
-                                image="img/Britestream.png"
+                                image="img/exp/Britestream.png"
                                 from="2004"
                                 to="2006"
                             />
@@ -80,7 +80,7 @@ export default function Experience() {
                                 title="Director of Product Planning"
                                 company="Hewlett-Packard (formerly RLX Technologies)"
                                 about="Launched 1st industry standard Blade Server"
-                                image="img/RLX.png"
+                                image="img/exp/RLX.png"
                                 from="1999"
                                 to="2001"
                             />
@@ -92,7 +92,7 @@ export default function Experience() {
                                 title="Manager of Server &amp; I/O Product Management"
                                 company="Dell Technologies"
                                 about="Defined and Launched industry's 1st 2U server, managed team of 20+"
-                                image="img/Dell.png"
+                                image="img/exp/Dell.png"
                                 from="1999"
                                 to="2001"
                             />
@@ -101,7 +101,7 @@ export default function Experience() {
                                 title="Sr Group Product Manager"
                                 company="Compaq"
                                 about="Led develop of Storage Business Unit, Developed 1st 4 socket server"
-                                image="img/Compaq.jpg"
+                                image="img/exp/Compaq.jpg"
                                 from="1994"
                                 to="1999"
                             />
