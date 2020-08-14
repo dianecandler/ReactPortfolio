@@ -102,8 +102,8 @@ export default function Experience() {
                                 company="Compaq"
                                 about="Led develop of Storage Business Unit, Developed 1st 4 socket server"
                                 image="img/Compaq.jpg"
-                                from="2019"
-                                to="2020"
+                                from="1994"
+                                to="1999"
                             />
                             {/* third */}
                             {/* <Expleft 
