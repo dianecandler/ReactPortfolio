@@ -19,9 +19,9 @@ export default function Specialization() {
         </div>
         <section className="section-sm pb-0">
           <div className="row mx-0">
-            <Specializationbar type="Product Management" length="80" delay="1000" />
-            <Specializationbar type="Product Marketing" length="60" delay="1500" />
-            <Specializationbar type="Full-stack Coding" length="50" delay="2000" />
+            <Specializationbar type="Product Management" length="95" delay="1000" />
+            <Specializationbar type="Product Marketing" length="80" delay="1500" />
+            <Specializationbar type="Full-stack Coding" length="70" delay="2000" />
           </div>
         </section>
       </div>
