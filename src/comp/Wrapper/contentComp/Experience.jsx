@@ -50,9 +50,9 @@ export default function Experience() {
                                 title="Consultant"
                                 company="Solving Problems"
                                 about="Sales, creative design, business planning"
-                                // image="img/PM.png"
-                                from="2009"
-                                to="2008"
+                                image="img/PM.png"
+                                from="2007"
+                                to="2015"
                             />
                         </div>
                         {/* new */}
@@ -62,7 +62,7 @@ export default function Experience() {
                                 title="Server and Storage Line Manager"
                                 company="Newisys"
                                 about="Led OEM/ODM products through Life Cycle Managment from propposal to final deliverables ensuring customer, vendor, and internal scope, schedule, cost goals were met."
-                                // image="img/Newisys.png"
+                                image="img/NewisysSanmina.png"
                                 from="2007"
                                 to="2008"
                             />
@@ -71,7 +71,7 @@ export default function Experience() {
                                 title="Product Marketing Manager"
                                 company="Britestream Networks"
                                 about="Security Hardware Start-Up where led implementation of Partnership Programs with Microsoft, IBM, CheckPoint, nCipher."
-                                // image="img/testimonials/ProductMgmt.jpg"
+                                image="img/Britestream.png"
                                 from="2004"
                                 to="2006"
                             />
@@ -80,7 +80,7 @@ export default function Experience() {
                                 title="Director of Product Planning"
                                 company="Hewlett-Packard (formerly RLX Technologies)"
                                 about="Launched 1st industry standard Blade Server"
-                                // image="img/cssdesignawards.png"
+                                image="img/RLX.png"
                                 from="1999"
                                 to="2001"
                             />
@@ -97,14 +97,14 @@ export default function Experience() {
                                 to="2001"
                             />
                             {/* second */}
-                            {/* <Expright 
-                                title="LMNOP"
-                                company="UT Bootcamp"
-                                about="It was fun to launch a new product!"
-                                // image="img/cssdesignawards.png"
+                            <Expright 
+                                title="Sr Group Product Manager"
+                                company="Compaq"
+                                about="Led develop of Storage Business Unit, Developed 1st 4 socket server"
+                                image="img/Compaq.jpg"
                                 from="2019"
                                 to="2020"
-                            /> */}
+                            />
                             {/* third */}
                             {/* <Expleft 
                                 title="XYZ"
