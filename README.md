@@ -13,7 +13,7 @@ Biggest challenges began with understanding the code and all that was required t
 * Added one enterprise work manager, one consultant company, one design client
 * With time will update and add others to keep website fresh
 
-![Testimonials #1](image/Ravi.png)
+![Testimonials #1](img/Ravi.png)
 
 ##  Tools and Languages
 * React
@@ -33,26 +33,24 @@ Biggest challenges began with understanding the code and all that was required t
 * May want to invest in better image manipulation software to improve results and minimize time spent.
 * Sticky headers and footers simplify development challenges and yield a clean user experience.
 
-![Publishing w/o Errors](image/noErrors.png)
+![Publishing w/o Errors](img/noErrors.png)
 
 ## Images
 * Personal images approved by individuals.
 * Free download images used.
 
 ## Screenshots
-![Hero Page](image/heroPage.png)
+![Hero Page](img/heroPage.png)
 
-![Experience Page 2 of 3](image/experience.png)
+![Experience Page 2 of 3](img/experience.png)
 
-![Testimonials #1](image/Ravi.png)
+![Volunteer Logos Page 1 of 2](img/volunteerLogos.png)
 
-![Volunteer Logos Page 1 of 2](image/volunteerLogos.png)
+![Skills & Education Page 2 of 2](img/skillsEdu.png)
 
-![Skills & Education Page 2 of 2](image/skillsEdu.png)
+![Publishing w/o Errors](img/noErrors.png)
 
-![Publishing w/o Errors](image/noErrors.png)
-
-![Contact Me email proof](image/ctcEmail.png)
+![Contact Me email proof](img/ctcEmail.png)
 
 
 # ServiceWorker
