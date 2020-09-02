@@ -29,7 +29,7 @@
 
 	/* Navbar Fixed */
 	var navbarDesctop = $('.navbar-desctop');
-	var origOffsetY = navbarDesctop.offset().top;
+	var origOffsetY = navbarDesctop.offset();
 
 	$(window).on('scroll', function () {
 		if ($(window).scrollTop() > origOffsetY) {
