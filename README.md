@@ -1,8 +1,13 @@
 # reactportfolio by Diane Candler
 
+<<<<<<< HEAD
 # Heroku App (https://dianecandler.herokuapp.com/)
 # GitHub (https://github.com/dianecandler/ReactPortfolio)
 
+=======
+## Heroku App (https://dianecandler.herokuapp.com/)
+## GitHub (https://github.com/dianecandler/ReactPortfolio)
+>>>>>>> 9d3e8531774bb3e28032992ca8993ea4c46c0bf3
 
 # Created React Template
 Fell in love with this website template but it wasn't designed for React. That didn't stop me from getting help in order to convert this (http://paul-themes.com/html/simone/home-personal.html?storefront=envato-elements#) into a React-ready template.
@@ -37,6 +42,7 @@ Biggest challenges began with understanding the code and all that was required t
 * Sticky headers and footers simplify development challenges and yield a clean user experience.
 ![Publishing w/o Errors](img/noErrors.png)
 ## Screenshots
+<<<<<<< HEAD
 ![Hero Page](img/heroPage.png)
 
 ![Experience Page 2 of 3](img/experience.png)
@@ -49,8 +55,23 @@ Biggest challenges began with understanding the code and all that was required t
 * Available from the navbar and by clicking the Contact tab on the navbar
 * Contact form has the ability to send an email if the user is interested in meeting.
 ![Contact Me email proof](img/ctcEmail.png)
+=======
+![Hero Page](/img/heroPage.png)
+Format:  [Alt Text](url)
+![Experience Page 2 of 3](/public/img/experience.png)
+![Testimonials #1](/public/img/Ravi.png)
+![Volunteer Logos Page 1 of 2](/public/img/volunteerLogos.png)
+![Skills & Education Page 2 of 2](/public/img/skillsEdu.png)
+![Publishing w/o Errors](/public/img/noErrors.png)
+![Contact Me email proof](/public/img/ctcEmail.png)
+
+>>>>>>> 9d3e8531774bb3e28032992ca8993ea4c46c0bf3
 
 # ServiceWorker
 This is my first experience with ServiceWorker which once registered and installed will allow running this program without internet connectivity.  What's not to appreciate. 
 
+<<<<<<< HEAD
 Matt Gaunt wrote, "A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction." and "The reason this is such an exciting API is that it allows you to support offline experiences, giving developers complete control over the experience."
+=======
+Matt Gaunt wrote, "A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction." and "The reason this is such an exciting API is that it allows you to support offline experiences, giving developers complete control over the experience."
+>>>>>>> 9d3e8531774bb3e28032992ca8993ea4c46c0bf3
