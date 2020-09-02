@@ -1,7 +1,7 @@
 # reactportfolio by Diane Candler
 
-# Heroku App (https://dianecandler.herokuapp.com/)
-# GitHub (https://github.com/dianecandler/ReactPortfolio)
+* Heroku App (https://dianecandler.herokuapp.com/)
+* GitHub (https://github.com/dianecandler/ReactPortfolio)
 
 
 # Created React Template
