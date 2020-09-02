@@ -49,8 +49,7 @@ export default function index() {
               Raised in a family of well educated, high achievers, Diane instinctly developed a passion for learning. She began her career in product management and marketing before starting her own creative services business.  Today she desires to join a company that values her experience and newly acquired full-stack coding skills.
              </p>
             <div className="mt-4">
-              <img src="/img/370x434-1.jpg" alt="Diane Candler" height="200" style={{ borderRadius: "50%" }} />
-              {/* need square image above */}
+              <img src="/img/Diane_Square.jpg" alt="Diane Candler" height="200" style={{ borderRadius: "50%" }} />
             </div>
           </div>
         </div>

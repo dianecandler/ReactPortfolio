@@ -14,7 +14,7 @@ export default function Specialization() {
             <img alt="" className="w-100" src="img/370x434-2.jpg" />
           </div>
           <div className="col-md-6 offset-md-6 offset-lg-0 order-md-3 order-lg-3 col-lg-4 mt-5 pl-0 pl-md-30 mt-md-0" data-aos="fade-up" data-aos-delay="1000">
-            <p className="mb-0 pl-md-30px">Proven experience implementing projects for many large domestic and foreign corporations, enterprises developing technology such as servers, networking, storage, software for use on-premsis and in the cloud.</p>
+            <p className="mb-0 pl-md-30px">Looking for an innovative company desiring someone with passion for design and creativity with full stack coding, product management and product marketing experience.</p>
           </div>
         </div>
         <section className="section-sm pb-0">

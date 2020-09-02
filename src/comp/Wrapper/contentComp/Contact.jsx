@@ -22,7 +22,7 @@ export default function Contact() {
                         </div>
                     </div>
                     <div className="col-lg-6 offset-lg-2 mt-5 mt-lg-0 px-0">
-                        <h3 className="my-0" data-aos="fade-up">Let's grab a coffee and jump on conversation <span className="text-primary">chat with me.</span></h3>
+                        <h3 className="my-0" data-aos="fade-up">What do you say?  <span className="text-primary">Let's have a conversation.</span></h3>
                         <section className="section-sm pb-0" data-aos="fade-up">
                             <ContactForm />
                         </section>

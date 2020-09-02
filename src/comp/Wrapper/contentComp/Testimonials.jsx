@@ -25,7 +25,7 @@ export default function Testimonials() {
                             <Testimonialcall
                                 person="Ravi"
                                 company="Sr Vice President, Dell Technologies"
-                                testimonial="Always brings a wealth of creativity, driven team member, and passion for learning!"
+                                testimonial= "Always brought a lot of creativity, partnership and passion to the discussions"
                                 image="img/testimonials/370x434-1.jpg"
                             />
                             <Testimonialcall
@@ -44,15 +44,15 @@ export default function Testimonials() {
                                 person="Dr and Mrs Streisand"
                                 company="Clients"
                                 testimonial="We met Diane through a friend and she is an amazing talent.  She is both creative and resourceful in putting together events.  For Bill’s  60th birthday party she help orchestrate a wonderful party and even decorated the wine glasses with bits of fun facts about Bill to add to the celebration."
-                                image="img/testimonials/370x434-4.jpg"
+                                image="img/testimonials/370x434-4b.jpg"
                             />
-                            <Testimonialcall
+                            {/* <Testimonialcall
                                 person="Bobby"
                                 company="City Councilman"
                                 testimonial=" Given her involvement in past projects she has exhibited an exceptional degree of leadership, she is focused on the task at hand and has the innate ability to not allow peripheral concerns of insignificance delay her mission.  She is a self starter, manages her time extraordinarily, and leads by example.  She is a team builder and brings extraordinary confidence to challenging projects. Can’t is not in her vocabulary."
                                 image="img/testimonials/370x434-5.jpg"
                             />
-                            {/* <Testimonialcall
+                            <Testimonialcall
                                 person="Lauren"
                                 company="DESAIGN STUDIO"
                                 testimonial="She is fast learner!"
