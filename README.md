@@ -22,10 +22,6 @@ Biggest challenges began with understanding the code and all that was required t
 * Git Hub 
 * Heroku
 
-## Images
-* Personal images approved by individuals.
-* Free download images used.
-
 ## Visibility
 * Important to allow both standard and reactive mode to ensure the content if visible for any user.
 * Invoking serviceWorker to allow for loading without internet connectivity.
@@ -37,22 +33,26 @@ Biggest challenges began with understanding the code and all that was required t
 * May want to invest in better image manipulation software to improve results and minimize time spent.
 * Sticky headers and footers simplify development challenges and yield a clean user experience.
 
-![Publishing w/o Errors](img/noErrors.png)
+![Publishing w/o Errors](image/noErrors.png)
+
+## Images
+* Personal images approved by individuals.
+* Free download images used.
 
 ## Screenshots
-![Hero Page](/img/heroPage.png)
+![Hero Page](image/heroPage.png)
 
-![Experience Page 2 of 3](/public/img/experience.png)
+![Experience Page 2 of 3](image/experience.png)
 
-![Testimonials #1](/public/img/Ravi.png)
+![Testimonials #1](image/Ravi.png)
 
-![Volunteer Logos Page 1 of 2](/public/img/volunteerLogos.png)
+![Volunteer Logos Page 1 of 2](image/volunteerLogos.png)
 
-![Skills & Education Page 2 of 2](/public/img/skillsEdu.png)
+![Skills & Education Page 2 of 2](image/skillsEdu.png)
 
-![Publishing w/o Errors](/public/img/noErrors.png)
+![Publishing w/o Errors](image/noErrors.png)
 
-![Contact Me email proof](/public/img/ctcEmail.png)
+![Contact Me email proof](image/ctcEmail.png)
 
 
 # ServiceWorker
