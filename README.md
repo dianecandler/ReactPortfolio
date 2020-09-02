@@ -5,14 +5,15 @@
 
 
 # Created React Template
-Fell in love with this website template but it wasn't designed for React. That didn't stop me from getting help in order to convert this (http://paul-themes.com/html/simone/home-personal.html?storefront=envato-elements#) into a React-ready template.
+Fell in love with a website template but it wasn't designed for React. That didn't stop me from going to work to convert all into a React-ready template.
 
 Biggest challenges began with understanding the code and all that was required to build the new template. For example the CSS was just easier to pull into multiple folders for React. Some of the syntax was written in JavaScript and needed to work with React. There is still some work to do on the timing but it works and the end product looks very similar to the website I wanted to model mine after.
 
 ## Testimonials
 * Added one enterprise work manager, one consultant company, one design client
 * With time will update and add others to keep website fresh
-![Testimonials #1](Ravi.png)
+
+![Testimonials #1](image/Ravi.png)
 
 ##  Tools and Languages
 * React
