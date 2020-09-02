@@ -1,4 +1,4 @@
-# reactportfolio by Diane Candler
+# React Portfolio by Diane Candler
 
 * Heroku App (https://dianecandler.herokuapp.com/)
 * GitHub (https://github.com/dianecandler/ReactPortfolio)
