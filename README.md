@@ -38,8 +38,11 @@ Biggest challenges began with understanding the code and all that was required t
 * May want to invest in better image manipulation software to improve results and minimize time spent.
 * Sticky headers and footers simplify development challenges and yield a clean user experience.
 
+## Screenshots
 ![Hero Page](/public/img/heroPage.png)
 ![Experience Page 2 of 3](/public/img/experience.png)
 ![Testimonials #1](/public/img/Ravi.png)
 ![Volunteer Logos Page 1 of 2](/public/img/volunteerLogos.png)
 ![Skills & Education Page 2 of 2](/public/img/skillsEdu.png)
+![Publishing w/o Errors](/public/img/noErrors.png)
+![Contact Me email proof](/public/img/ctcEmail.png)
