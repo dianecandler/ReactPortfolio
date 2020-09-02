@@ -26,7 +26,7 @@ export default function Navbar() {
               <li><a className="nav-link" href="#works">Projects</a></li>
               <li><a className="nav-link" href="#experience">Experience</a></li>
               <li><a className="nav-link" href="#testimonial">Testimonials</a></li>
-              <li><a className="nav-link" href="#skills">Accomplishments</a></li>
+              <li><a className="nav-link" href="#skills">Skills-Education</a></li>
               <li><a className="nav-link" href="#contact">Contact</a></li>
             </ul>
   
