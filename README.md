@@ -10,4 +10,5 @@ Fell in love with this website template but it wasn't designed for React.  That 
 
 Biggest challenges began with understanding the code and all that was required to build the new template.  For example the CSS was just easier to pull into multiple folders for React.  Some of the syntax was written in JavaScript and needed to work with React.  There is still some work to do on the timing but it works and the end product looks very similar to the website I wanted to model mine after.
 
-## Heroku App (https://infinite-badlands-36781.herokuapp.com/)
+## Heroku App (https://dianecandler.herokuapp.com/)
+
