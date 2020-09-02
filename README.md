@@ -9,6 +9,9 @@ Fell in love with a website template but it wasn't designed for React. That didn
 
 Biggest challenges began with understanding the code and all that was required to build the new template. For example the CSS was just easier to pull into multiple folders for React. Some of the syntax was written in JavaScript and needed to work with React. There is still some work to do on the timing but it works and the end product looks very similar to the website I wanted to model mine after.
 
+# About this Portfolio
+This is intended to contain samples of my coding creations as well as provide some background on my product management, consulting, home design & historic restoration business, and highlight my active volunteer commitments.  Inside the program are lots of images, samples of my work, a brief resume/CV, logos from some of the non-profits I've served as a board member or trainer, and testimonials from those who know me and my work.  You will also find links to my portfolio hosted on Heroku, GitHub link, and LinkedIn sites.  Hopefully this is a positive and entertaining way to review my work and resume at the same time.
+
 ## Testimonials
 * Added one enterprise work manager, one consultant company, one design client
 * With time will update and add others to keep website fresh
@@ -16,6 +19,7 @@ Biggest challenges began with understanding the code and all that was required t
 ![Testimonials #1](/public/img/ravi.png)
 
 ##  Tools and Languages
+This is a frontend project assigned midway through the 6 month program with time to make modifications through the progression of the course.  Requirements for this version included launching from Heroku and developed using React.  We were invited to roll our initial portfolio from JavaScript with HTML and CSS into React.  I chose to reorganize and find a better layout than my original document.
 * React
 * HTML
 * CSS Bootstrap - converted to React
@@ -55,3 +59,6 @@ Biggest challenges began with understanding the code and all that was required t
 This is my first experience with ServiceWorker which once registered and installed will allow running this program without internet connectivity.  What's not to appreciate. 
 
 Matt Gaunt wrote, "A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction." and "The reason this is such an exciting API is that it allows you to support offline experiences, giving developers complete control over the experience."
+
+# Thank you
+Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
