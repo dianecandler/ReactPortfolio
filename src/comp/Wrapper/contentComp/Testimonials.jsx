@@ -21,6 +21,9 @@ export default function Testimonials() {
                             navText={['<div class="arrow"><div class="arrow-top"></div><div class="arrow-bottom"></div></div>', '<div class="arrow"><div class="arrow-top"></div><div class="arrow-bottom"></div></div>']}
                             dots={false}
                             items={1}
+                            navText={
+                                ['<div class="arrow"><div class="arrow-top"></div><div class="arrow-bottom"></div></div>', '<div class="arrow"><div class="arrow-top"></div><div class="arrow-bottom"></div></div>']
+                            }
                         >
                             <Testimonialcall
                                 person="Ravi"
