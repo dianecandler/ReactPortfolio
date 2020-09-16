@@ -1,6 +1,8 @@
 import React from 'react';
 import Navbarmobile from './Navbarmobile';
 import $ from 'jquery';
+import Resume from './Footer/Resume.pdf';
+
 
 function addtoggler() {
 $('body').addClass('menu-is-open');
@@ -34,6 +36,7 @@ export default function Navbar() {
             <ul className="social-icons d-none d-lg-block">
               <li><a href="https://dianecandler.github.io/ReactPortfolio/"><ion-icon name="logo-github"></ion-icon></a></li>
               <li><a href="https://www.linkedin.com/in/diane-candler-centraltexas/"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+              <li><a href= {Resume} target="_blank"><ion-icon name="document"></ion-icon></a></li>
             </ul>
           </div>
             
