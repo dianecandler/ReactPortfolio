@@ -31,7 +31,7 @@ export default function Latestwork() {
                         image="img/portfolio/740x540-6.jpg"
                         // GitHub link="https://group-5-project-2.github.io/CodeCave/"
                         title="Bartlett Venue"
-                        category="Full-Stack App"
+                        category="Full-Stack React App"
 					/>
 					<Latestworkshowcase
 						link='https://codecave.herokuapp.com/'
