@@ -34,7 +34,7 @@ export default function Experience() {
                                 about="Working with JavaScript, HTML, CSS, JQuery, Heroku, Git, PHPm MySQL, MongoDB, Node.js, Express, MERN Stack"
                                 image="img/exp/UT.png"
                                 from="2020"
-                                to="Present"
+                                to="October 2020"
                             />
                             {/* second */}
                             <Expright 
