@@ -1056,7 +1056,7 @@ main{
 }
 
 #home {
-  background-image:url('img/bg/personal.jpg');
+  background-image:url('./img/bg/personal.jpg');
 }
 
 /*-------------------------------------------------------------------------------

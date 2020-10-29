@@ -29,9 +29,10 @@ export default function Latestwork() {
 					<Latestworkshowcase
                         link='https://bvenueapp.herokuapp.com/'
                         image="img/portfolio/740x540-6.jpg"
-                        // GitHub link="https://group-5-project-2.github.io/CodeCave/"
+                        github="https://group-5-project-2.github.io/CodeCave/"
                         title="Bartlett Venue"
-                        category="Full-Stack React App"
+						category="Full-Stack MERN App"
+						descript="Venue business - book online"
 					/>
 					<Latestworkshowcase
 						link='https://dc2projects.github.io/ATXFoodTruck/'
@@ -43,13 +44,13 @@ export default function Latestwork() {
 					<Latestworkshowcase
 						link='https://dianecandler-googlebooks.herokuapp.com/'
 						image='img/portfolio/740x540-7.jpg'
-						// GitHub link="https://dianecandler.github.io/googlebooks/"
+						github="https://dianecandler.github.io/googlebooks/"
 						title='Google Books'
 						category='Full-Stack MERN App'
 					/>
 					<Latestworkshowcase
 						link='https://hw19employee-directory.herokuapp.com/'
-						// GitHub link="https://github.com/dianecandler/hw19employee-directory"
+						github="https://github.com/dianecandler/hw19employee-directory"
 						image='img/portfolio/740x540-9.jpg'
 						title='Employee Directory'
 						category='TDD - React - Json Data '
@@ -66,7 +67,7 @@ export default function Latestwork() {
 						image='img/portfolio/740x540-5.jpg'
 						// GitHub link="https://group-5-project-2.github.io/CodeCave/"
 						title='CodeCave'
-						category='Full-Stack App'
+						category='Full-Stack mySQL App'
 					/>
 {/* !note taker needs to run on Heroku or deployed different on Git Hub */}
 					{/* <Latestworkshowcase
@@ -85,10 +86,10 @@ export default function Latestwork() {
 					/>
 					<Latestworkshowcase
 						link='https://dianecandler.github.io/codeQuiz/'
-						// GitHub link="https://github.com/dianecandler/codeQuiz"
+						github="https://github.com/dianecandler/codeQuiz"
 						image='img/portfolio/740x540-3.jpg'
 						title='Coding Quiz'
-						category='JavaScript - JQuery '
+						category='Front-End App'
 					/>
 
 				</OwlCarousel>
