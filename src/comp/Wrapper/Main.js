@@ -5,7 +5,7 @@ import Opener from './mainComp/Opener';
 export default function Main() {
 
   const style = {
-    backgroundImage: "url('img/bg/personal.jpg')"
+    backgroundImage: "url('./img/bg/Personal.jpg')"
   }
 
   return (
