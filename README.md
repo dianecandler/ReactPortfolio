@@ -1,6 +1,6 @@
 # React Portfolio by Diane Candler
 
-Simple and entertaining way to view my projects and job experience. 
+***Simple and entertaining way to view my projects and job experience.***
 
 ![portSum](https://user-images.githubusercontent.com/63519355/98013873-88253c00-1dc0-11eb-9ddd-2e8826f0d45e.JPG)
 
@@ -63,6 +63,6 @@ work, links to my resume/CV, logos from some of the non-profits I've served as a
 
 
 # Thank you
-Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
+Your time is valuable.  Thank you for taking time to review this program.  Feedback is welcome.
 
 ![quoteSuccess](https://user-images.githubusercontent.com/63519355/98017916-89a53300-1dc5-11eb-9cef-4313148f4f8b.JPG) 
