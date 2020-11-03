@@ -2,7 +2,9 @@
 
 Simple and entertaining way to view my projects and job experience. 
 
-This portfolio is so much more than a repository!  Let me know what you think.
+![portSum](https://user-images.githubusercontent.com/63519355/98013873-88253c00-1dc0-11eb-9ddd-2e8826f0d45e.JPG)
+
+**This portfolio is so much more than a repository!  Let me know what you think.**
 
 * Heroku App (https://dianecandler.herokuapp.com/)
 * GitHub (https://github.com/dianecandler/ReactPortfolio)
@@ -32,28 +34,28 @@ A place to showcase samples of my coding creations while providing background on
 
 # Screenshots
 
-### Hero - Initial Splash Screen
+## ***Hero - Initial Splash Screen***
 
 ![portSplash](https://user-images.githubusercontent.com/63519355/98009362-0ed71a80-1dbb-11eb-8cbd-ce3093d0fe5e.JPG)
 
 
-### Experience Section - page 2 of 3
+## ***Experience Section - page 2 of 3***
 
 ![portExp2](https://user-images.githubusercontent.com/63519355/98009576-4d6cd500-1dbb-11eb-8e2a-e0a27b23eaec.JPG)
 
-### Scroll through volunteer logos 
+## ***Scroll through volunteer logos*** 
 
 ![portVol](https://user-images.githubusercontent.com/63519355/98009573-4d6cd500-1dbb-11eb-8a3e-37a44db65c17.JPG)
 
-### Work Experience and Education
+## ***Work Experience and Education***
 
 ![portSkillsEd](https://user-images.githubusercontent.com/63519355/98009572-4cd43e80-1dbb-11eb-84cf-f78087d49a00.JPG)
 
-### Contact via Email
+## ***Contact via Email***
 
 ![portEmail](https://user-images.githubusercontent.com/63519355/98009568-4cd43e80-1dbb-11eb-9228-049b41fa25b3.JPG)
 
-### Footer
+## ***Footer***
 
 ![portFooter](https://user-images.githubusercontent.com/63519355/98009577-4d6cd500-1dbb-11eb-85e7-55ab8b48626e.JPG)
 
