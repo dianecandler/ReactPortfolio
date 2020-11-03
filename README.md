@@ -30,9 +30,10 @@ A place to showcase samples of my coding creations while providing background on
 # Screenshots
 
 ### Hero - Initial Splash
-![Hero Page](/public/img/hero.png)
+![portSplash](https://user-images.githubusercontent.com/63519355/98009362-0ed71a80-1dbb-11eb-8cbd-ce3093d0fe5e.JPG)
 
-### Experience Section
+
+### Experience Section - page 2 of 3
 ![Experience Page 2 of 3](/public/img/experience.png)
 
 ### Scroll through volunteer logos 
