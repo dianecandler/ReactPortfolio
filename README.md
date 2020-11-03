@@ -22,37 +22,39 @@ A place to showcase samples of my coding creations while providing background on
  * View my resume, accessed through an icon link to a pdf file.
 
 # Testimonials
-* Added one enterprise work manager, one consultant company, one design client
-* With time will update and add others to keep website fresh
+ * Added one enterprise work manager, one consultant company, one design client
+ * With time will update and add others to keep website fresh
 
 ![Ravi](https://user-images.githubusercontent.com/63519355/98007877-89069f80-1db9-11eb-8391-34aa0f27d54a.JPG)
 
+
 # Screenshots
 
-### Hero - Initial Splash
+### Hero - Initial Splash Screen
+
 ![portSplash](https://user-images.githubusercontent.com/63519355/98009362-0ed71a80-1dbb-11eb-8cbd-ce3093d0fe5e.JPG)
 
 
 ### Experience Section - page 2 of 3
+
 ![portExp2](https://user-images.githubusercontent.com/63519355/98009576-4d6cd500-1dbb-11eb-8e2a-e0a27b23eaec.JPG)
 
 ### Scroll through volunteer logos 
-![Volunteer Logos Page 1 of 2](/public/img/volunteerlogos.png)
-
 
 ![portVol](https://user-images.githubusercontent.com/63519355/98009573-4d6cd500-1dbb-11eb-8a3e-37a44db65c17.JPG)
 
 ### Work Experience and Education
+
 ![portSkillsEd](https://user-images.githubusercontent.com/63519355/98009572-4cd43e80-1dbb-11eb-84cf-f78087d49a00.JPG)
 
 ### Contact via Email
-![Contact Me email proof](/public/img/ctcemail.png)
 
 ![portEmail](https://user-images.githubusercontent.com/63519355/98009568-4cd43e80-1dbb-11eb-9228-049b41fa25b3.JPG)
 
 ### Footer
 
 ![portFooter](https://user-images.githubusercontent.com/63519355/98009577-4d6cd500-1dbb-11eb-85e7-55ab8b48626e.JPG)
+
 
 # Thank you
 Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
