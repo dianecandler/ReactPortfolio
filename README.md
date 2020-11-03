@@ -1,64 +1,48 @@
 # React Portfolio by Diane Candler
 
+Simple and entertaining way to view my projects and job experience. 
+
+This portfolio is so much more than a repository!  Let me know what you think.
+
 * Heroku App (https://dianecandler.herokuapp.com/)
 * GitHub (https://github.com/dianecandler/ReactPortfolio)
 
-
-# Created React Template
-Fell in love with a website template but it wasn't designed for React. That didn't stop me from going to work to convert all into a React-ready template.
-
-Biggest challenges began with understanding the code and all that was required to build the new template. For example the CSS was just easier to pull into multiple folders for React. Some of the syntax was written in JavaScript and needed to work with React. There is still some work to do on the timing but it works and the end product looks very similar to the website I wanted to model mine after.
+# About the Design
+ * Goal was to come as close as I could to creating a living, self-guided resume of my work.
+ * Heavily component driven program, making it simple to modify or pull parts for new endeavors.  React is ideal.  This will be important as my experience grows.
+ * Designed to showcase my creativity while providing an entertainly way to review my projects, experience, and learn more about the highly self-motivated person I am.
+ * Inspired by a template not written for React.  Required I convert the template to use with React and also allow for greater creativity using other bootstrap.
+ * Greatest challenge?  Understanding unfamiliar code, re-writing, and creating a template of my own.
 
 # About this Portfolio
-This is intended to contain samples of my coding creations as well as provide some background on my product management, consulting, home design & historic restoration business, and highlight my active volunteer commitments.  Inside the program are lots of images, samples of my work, a brief resume/CV, logos from some of the non-profits I've served as a board member or trainer, and testimonials from those who know me and my work.  You will also find links to my portfolio hosted on Heroku, GitHub link, and LinkedIn sites.  Hopefully this is a positive and entertaining way to review my work and resume at the same time.
+A place to showcase samples of my coding creations while providing background on my product management, consulting, home design & historic restoration business, and highlight my active volunteer commitments.  Inside the program are lots of images, samples of my work, links to my resume/CV, logos from some of the non-profits I've served as a board member or trainer, and testimonials from those who know me and my work.  
 
-## Testimonials
+ * Portfolio is currently hosted on Heroku. Please be patient with load time!
+ * Links to my GitHub and LinkedIn sites.
+ * View my resume, accessed through an icon link to a pdf file.
+
+# Testimonials
 * Added one enterprise work manager, one consultant company, one design client
 * With time will update and add others to keep website fresh
 
-![Testimonials #1](/public/img/ravi.png)
+![Ravi](https://user-images.githubusercontent.com/63519355/98007877-89069f80-1db9-11eb-8391-34aa0f27d54a.JPG)
 
-##  Tools and Languages
-This is a frontend project assigned midway through the 6 month program with time to make modifications through the progression of the course.  Requirements for this version included launching from Heroku and developed using React.  We were invited to roll our initial portfolio from JavaScript with HTML and CSS into React.  I chose to reorganize and find a better layout than my original document.
-* React
-* HTML
-* CSS Bootstrap - converted to React
-* Git Hub 
-* Heroku
+# Screenshots
 
-## Visibility
-* Important to allow both standard and reactive mode to ensure the content if visible for any user.
-* Invoking serviceWorker to allow for loading without internet connectivity.
-
-## Lessons Learned
-* When calling image files, this does not require the dot (./) but does require the extension (.png).
-* Revising bootstrap to create a React document requires great attention to detail.  Error messages proved helpful in catching the changes needed from 'class' to 'className'.
-* Significant forklift effort from previous portfolio as a result of the template creation.  Well worth the time and effort required.
-* May want to invest in better image manipulation software to improve results and minimize time spent.
-* Sticky headers and footers simplify development challenges and yield a clean user experience.
-
-![Publishing w/o Errors](/public/img/noerrors.png)
-
-## Images
-* Personal images approved by individuals.
-* Free download images used.
-
-## Screenshots
+### Hero - Initial Splash
 ![Hero Page](/public/img/hero.png)
 
+### Experience Section
 ![Experience Page 2 of 3](/public/img/experience.png)
 
+### Scroll through volunteer logos 
 ![Volunteer Logos Page 1 of 2](/public/img/volunteerlogos.png)
 
+### Work Experience and Education
 ![Skills & Education Page 2 of 2](/public/img/skillsedu.png)
 
+### Contact via Email
 ![Contact Me email proof](/public/img/ctcemail.png)
-
-
-# ServiceWorker
-This is my first experience with ServiceWorker which once registered and installed will allow running this program without internet connectivity.  What's not to appreciate. 
-
-Matt Gaunt wrote, "A service worker is a script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction." and "The reason this is such an exciting API is that it allows you to support offline experiences, giving developers complete control over the experience."
 
 # Thank you
 Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
