@@ -6,7 +6,7 @@ Simple and entertaining way to view my projects and job experience.
 
 **This portfolio is so much more than a repository!  Let me know what you think.**
 
-* Heroku App (https://dianecandler.herokuapp.com/)
+* **Heroku App** (https://dianecandler.herokuapp.com/)
 * GitHub (https://github.com/dianecandler/ReactPortfolio)
 
 ![portHeader](https://user-images.githubusercontent.com/63519355/98013522-164cf280-1dc0-11eb-8285-80910866291e.jpg)
@@ -18,8 +18,10 @@ Simple and entertaining way to view my projects and job experience.
  * Inspired by a template not written for React.  Required I convert the template to use with React and also allow for greater creativity using other bootstrap.
  * Greatest challenge?  Understanding unfamiliar code, re-writing, and creating a template of my own.
 
-# About this Portfolio
-A place to showcase samples of my coding creations while providing background on my product management, consulting, home design & historic restoration business, and highlight my active volunteer commitments.  Inside the program are lots of images, samples of my work, links to my resume/CV, logos from some of the non-profits I've served as a board member or trainer, and testimonials from those who know me and my work.  
+# About this Portfolio 
+A place to showcase samples of my coding creations while providing background on my product management, consulting, home design and
+historic restoration business, and highlight my active volunteer commitments.  Inside the program are lots of images, samples of my
+work, links to my resume/CV, logos from some of the non-profits I've served as a board member or trainer, and testimonials from those who know me and my work.  
 
  * Portfolio is currently hosted on Heroku. Please be patient with load time!
  * Links to my GitHub and LinkedIn sites.
@@ -62,3 +64,5 @@ A place to showcase samples of my coding creations while providing background on
 
 # Thank you
 Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
+
+![quoteSuccess](https://user-images.githubusercontent.com/63519355/98017916-89a53300-1dc5-11eb-9cef-4313148f4f8b.JPG) 
