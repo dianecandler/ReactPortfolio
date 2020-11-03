@@ -7,6 +7,8 @@ This portfolio is so much more than a repository!  Let me know what you think.
 * Heroku App (https://dianecandler.herokuapp.com/)
 * GitHub (https://github.com/dianecandler/ReactPortfolio)
 
+![portHeader](https://user-images.githubusercontent.com/63519355/98013522-164cf280-1dc0-11eb-8285-80910866291e.jpg)
+
 # About the Design
  * Goal was to come as close as I could to creating a living, self-guided resume of my work.
  * Heavily component driven program, making it simple to modify or pull parts for new endeavors.  React is ideal.  This will be important as my experience grows.
