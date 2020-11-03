@@ -34,16 +34,25 @@ A place to showcase samples of my coding creations while providing background on
 
 
 ### Experience Section - page 2 of 3
-![Experience Page 2 of 3](/public/img/experience.png)
+![portExp2](https://user-images.githubusercontent.com/63519355/98009576-4d6cd500-1dbb-11eb-8e2a-e0a27b23eaec.JPG)
 
 ### Scroll through volunteer logos 
 ![Volunteer Logos Page 1 of 2](/public/img/volunteerlogos.png)
 
+
+![portVol](https://user-images.githubusercontent.com/63519355/98009573-4d6cd500-1dbb-11eb-8a3e-37a44db65c17.JPG)
+
 ### Work Experience and Education
-![Skills & Education Page 2 of 2](/public/img/skillsedu.png)
+![portSkillsEd](https://user-images.githubusercontent.com/63519355/98009572-4cd43e80-1dbb-11eb-84cf-f78087d49a00.JPG)
 
 ### Contact via Email
 ![Contact Me email proof](/public/img/ctcemail.png)
+
+![portEmail](https://user-images.githubusercontent.com/63519355/98009568-4cd43e80-1dbb-11eb-9228-049b41fa25b3.JPG)
+
+### Footer
+
+![portFooter](https://user-images.githubusercontent.com/63519355/98009577-4d6cd500-1dbb-11eb-85e7-55ab8b48626e.JPG)
 
 # Thank you
 Your time is valuable.  Thank you for taking time to review this program.  Feedback is valued.  Feel free to use the Contact tab and send me an email with your thoughts.
