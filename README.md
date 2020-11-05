@@ -66,3 +66,7 @@ work, links to my resume/CV, logos from some of the non-profits I've served as a
 Your time is valuable.  Thank you for taking time to review this program.  Feedback is welcome.
 
 ![quoteSuccess](https://user-images.githubusercontent.com/63519355/98017916-89a53300-1dc5-11eb-9cef-4313148f4f8b.JPG) 
+
+
+- - -
+© 2020 Diane Candler. All Rights Reserved.
