@@ -91,16 +91,9 @@ export default function Latestwork() {
 						title='Coding Quiz'
 						category='Front-End App'
 					/>
-					{/* <Latestworkshowcase
-						link='https://hw19employee-directory.herokuapp.com/'
-						github="https://github.com/dianecandler/codeQuiz"
-						image='img/portfolio/eeDirectory.jpg'
-						title='Employee Directory'
-						category='Test Driven Development' */}
-					/>
 						<Latestworkshowcase
 						link='https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=024cd4d8-725f-4bed-b309-abfa0163074a'
-						github="https://github.com/dianecandler/HW12employeeTracker/README.md"
+						github="https://dianecandler.github.io/HW12employeeTracker"
 						image='img/portfolio/employeeTracker.jpg'
 						title='Employee Tracker'
 						category='MySQL - Command Line Application'
