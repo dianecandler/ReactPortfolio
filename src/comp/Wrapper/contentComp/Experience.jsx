@@ -18,7 +18,7 @@ export default function Experience() {
                 <div className="container">
                     <OwlCarousel
                         className="experience-carousel"
-                        loop={false}
+                        loop
                         margin={30}
                         nav={false}
                         smartSpeed={1000}
