@@ -26,7 +26,7 @@ export default function Latestwork() {
 					]}
 				>
 					{/* images 740x540 */}
-					<Latestworkshowcase
+					<Latestworkshowcase /* Bartlett Venue Website */
                         link='https://bvenueapp.herokuapp.com/'
                         image="img/portfolio/740x540-6.jpg"
                         github="https://group-5-project-2.github.io/CodeCave/"
@@ -34,64 +34,65 @@ export default function Latestwork() {
 						category="Full-Stack MERN App"
 						descript="Venue business - book online"
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Foot Truck ATX */
 						link='https://dc2projects.github.io/ATXFoodTruck/'
 						image='img/portfolio/740x540-1.jpg'
-						// GitHub link="https://github.com/DestinATX/Project-1"
+						GitHub link="https://dc2projects.github.io/ATXFoodTruck/"
 						title='Food Truck ATX'
 						category='Front-end App'
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Google Books */
 						link='https://dianecandler-googlebooks.herokuapp.com/'
 						image='img/portfolio/740x540-7.jpg'
 						github="https://dianecandler.github.io/googlebooks/"
 						title='Google Books'
 						category='Full-Stack MERN App'
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Employee Directory */
 						link='https://hw19employee-directory.herokuapp.com/'
-						github="https://github.com/dianecandler/hw19employee-directory"
+						github="https://dianecandler.github.io/hw19employee-directory"
 						image='img/portfolio/740x540-9.jpg'
 						title='Employee Directory'
 						category='TDD - React - Json Data '
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Day Planner */
                         link="https://dianecandler.github.io/DayPlanner/"
                         image="img/portfolio/740x540-4.jpg"
-                        // GitHub link="https://github.com/dianecandler/DayPlanner"
+                        GitHub link="https://dianecandler.github.io/DayPlanner"
                         title="Day Planner"
                         category="Front-End App"
                     />
-					<Latestworkshowcase
+					<Latestworkshowcase /* Code Cave */
 						link='https://codecave.herokuapp.com/'
 						image='img/portfolio/740x540-5.jpg'
+						GitHub='https://dianecandler.github.io'
 						// GitHub link="https://group-5-project-2.github.io/CodeCave/"
 						title='CodeCave'
 						category='Full-Stack mySQL App'
 					/>
-{/* !note taker needs to run on Heroku or deployed different on Git Hub */}
-					{/* <Latestworkshowcase
-						link='https://dianecandler.github.io/HW11noteTaker/'
-						// GitHub link="https://github.com/dianecandler/HW11noteTaker"
+
+					<Latestworkshowcase /* Note Taker */
+						link='https://dianecandler-notetaker.herokuapp.com/'
+						GitHub link="https://dianecandler.github.io/HW11noteTaker"
 						image='img/portfolio/740x540-0.jpg'
 						title='Note Taker'
 						category='Express - Node.js'
-					/> */}
-					<Latestworkshowcase
+					/>
+					<Latestworkshowcase /* Workout Tracker */
 						link='https://dianecandler.github.io/MongoWOtracker/.'
 						// GitHub link="https://dianecandler.github.io/MongoWOtracker/."
 						image='img/portfolio/740x540-8.jpg'
 						title='Workout Tracker'
 						category='Full-Stack MongoDB'
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Coding Quiz */
 						link='https://dianecandler.github.io/codeQuiz/'
-						github="https://github.com/dianecandler/codeQuiz"
+						github="https://dianecandler.github.io/codeQuiz"
 						image='img/portfolio/740x540-3.jpg'
 						title='Coding Quiz'
 						category='Front-End App'
 					/>
-						<Latestworkshowcase
+						<Latestworkshowcase /* Employee Tracker */
 						link='https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=024cd4d8-725f-4bed-b309-abfa0163074a'
 						github="https://dianecandler.github.io/HW12employeeTracker"
 						image='img/portfolio/employeeTracker.jpg'
