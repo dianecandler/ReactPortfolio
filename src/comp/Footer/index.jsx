@@ -20,7 +20,7 @@ export default function index() {
         <div className="row mx-0">
           <div className="col-md-6 col-lg-4  pl-0 pr-md-30px">
             <a className="brand" href="#">Diane Candler</a>
-            <p className="size-sm">Product Designer &amp; Full-stack Developer</p>
+            <p className="size-sm">Product Manager &amp; Full-stack Developer</p>
             <p className="mt-4">
               <strong className="text-uppercase text-dark">Address:</strong><br />
                 P.O. Box 9, Bartlett, TX, USA
