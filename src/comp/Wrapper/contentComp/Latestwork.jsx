@@ -85,13 +85,13 @@ export default function Latestwork() {
 						title='Workout Tracker'
 						category='Full-Stack MongoDB'
 					/>
-					<Latestworkshowcase /* Coding Quiz */
-						link='https://dianecandler.github.io/codeQuiz/'
+{/*					<Latestworkshowcase Coding Quiz
+					link='https://dianecandler.github.io/codeQuiz/'
 						github="https://dianecandler.github.io/codeQuiz"
 						image='img/portfolio/740x540-3.jpg'
 						title='Coding Quiz'
 						category='Front-End App'
-					/>
+/> */}
 						<Latestworkshowcase /* Employee Tracker */
 						link='https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=024cd4d8-725f-4bed-b309-abfa0163074a'
 						github="https://dianecandler.github.io/HW12employeeTracker"
