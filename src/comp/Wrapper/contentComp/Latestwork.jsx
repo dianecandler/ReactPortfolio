@@ -88,7 +88,7 @@ export default function Latestwork() {
 						title='Workout Tracker'
 						category='Full-Stack MongoDB'
 					/>
-					<Latestworkshowcase
+					<Latestworkshowcase /* Code Quiz */
 						Coding
 						Quiz
 						link='https://dianecandler.github.io/codeQuiz/'
